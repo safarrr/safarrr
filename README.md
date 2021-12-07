@@ -4,6 +4,10 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=j6wq98j9fysrqkood6idk6wee&cover_image=true&theme=default&bar_color_cover=true&bar_color=ffffff)](https://spotify-github-profile.vercel.app/api/view?uid=j6wq98j9fysrqkood6idk6wee&redirect=true)
 
+# 📬Discord
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/491535679231229963)](https://discord.com/users/491535679231229963)
+
 # 🔍Github Stats
 <table>
   <tr>
