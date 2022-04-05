@@ -2,7 +2,7 @@
 
 # 🎧Spotify Playing
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=j6wq98j9fysrqkood6idk6wee&cover_image=true&theme=default&bar_color_cover=true&bar_color=ffffff)](https://spotify-github-profile.vercel.app/api/view?uid=j6wq98j9fysrqkood6idk6wee&redirect=true)
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=j6wq98j9fysrqkood6idk6wee&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)
 
 # 📬Discord
 
