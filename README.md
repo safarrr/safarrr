@@ -9,9 +9,9 @@
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=j6wq98j9fysrqkood6idk6wee&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)
  -->
 
-<h1 align="center">📬Discord</h1>
+<!-- <h1 align="center">📬Discord</h1> -->
 
-<p align="center"><img src="https://lanyard.cnrad.dev/api/491535679231229963" ></p>
+<!-- <p align="center"><img src="https://lanyard.cnrad.dev/api/491535679231229963" ></p> -->
 
 <!-- [![Discord Presence](https://lanyard.cnrad.dev/api/491535679231229963)](https://discord.com/users/491535679231229963) -->
 
