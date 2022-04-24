@@ -4,7 +4,7 @@ Hi 👋 My name is Safarudin
 web developer
 -------------
 
-hello i am safarudin i live in west java indonesia, i study at vocational high school (smk binamitra) majoring in computer and network engineering I was born March 19, 2005,
+hello i am safarudin i live in west java indonesia, i study at vocational high school (smk binamitra) majoring in computer and network engineering, I was born March 19, 2005,
 
 * 🌍  I'm based in Indonesian
 * 🖥️  See my portfolio at [Web](http://safarrr.vercel.app)
