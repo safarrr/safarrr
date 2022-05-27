@@ -6,7 +6,7 @@ web developer
 
 hello i am safarudin i live in west java indonesia, i study at vocational high school (smk binamitra) majoring in computer and network engineering, I was born March 19, 2005,
 
-* 🌍  I'm based in Indonesian
+* 🌍  I'm based in Indonesia
 * 🖥️  See my portfolio at [Web](http://safarrr.vercel.app)
 * ✉️  You can contact me at [safar190305@gmail.com](mailto:safar190305@gmail.com)
 
