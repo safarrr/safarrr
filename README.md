@@ -10,9 +10,6 @@ hello i am safarudin i live in west java indonesia, i study at vocational high s
 * 🖥️  See my portfolio at [Web](http://safarrr.vercel.app)
 * ✉️  You can contact me at [safar190305@gmail.com](mailto:safar190305@gmail.com)
 
-### Spotify
-
-<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=j6wq98j9fysrqkood6idk6wee&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false" >
 
 ### Skills
 
