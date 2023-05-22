@@ -1,10 +1,10 @@
 <!-- <p align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px"></p> -->
 <!-- <p align="center"><img src="./cover.jpg" width="100%"></p> -->
 
-
+<!-- 
 <h1 align="center">🎧Spotify Playing</h1>
 
-<p align="center"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=j6wq98j9fysrqkood6idk6wee&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false" ></p>
+<p align="center"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=j6wq98j9fysrqkood6idk6wee&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false" ></p> -->
 <!-- 
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=j6wq98j9fysrqkood6idk6wee&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)
  -->
