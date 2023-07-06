@@ -1,5 +1,6 @@
-<!-- <p align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px"></p> -->
-<!-- <p align="center"><img src="./cover.jpg" width="100%"></p> -->
+<img src="https://64.media.tumblr.com/4616f37446e226a63bd0742f37a14c8a/tumblr_n48kjpfo4S1qg6rkio1_500.gifv" width="200px"> 
+
+[source](https://hoppip.tumblr.com/post/83110954053) 
 
 <!-- 
 <h1 align="center">🎧Spotify Playing</h1>
@@ -15,7 +16,7 @@
 
 <!-- [![Discord Presence](https://lanyard.cnrad.dev/api/491535679231229963)](https://discord.com/users/491535679231229963) -->
 
-
+<!-- 
 <h1 align="center">🔍Github Stats</h1>
 
 <table>
@@ -27,4 +28,4 @@
      <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=safarrr&theme=chartreuse-dark&show_icons=true&locale=en" alt="safarrr" /></p>
      
   </tr>
-</table>
+</table>--> 
